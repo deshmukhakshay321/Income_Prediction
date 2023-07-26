@@ -1,0 +1,4 @@
+[2023-07-26 17:45:36,319] 187 werkzeug - WARNING -  * Debugger is active!
+[2023-07-26 17:45:36,334] 187 werkzeug - INFO -  * Debugger PIN: 388-346-932
+[2023-07-26 17:45:43,883] 17 root - INFO - Error occured in python script [D:\projects_old\data science\mlproject2\ml_pipeline_project\app.py] line number [14] error message [We are testing]
+[2023-07-26 17:45:43,884] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 17:45:43] "GET / HTTP/1.1" 200 -

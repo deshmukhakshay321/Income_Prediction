@@ -1,0 +1,3 @@
+[2023-07-26 17:33:07,146] 187 werkzeug - WARNING -  * Debugger is active!
+[2023-07-26 17:33:07,152] 187 werkzeug - INFO -  * Debugger PIN: 388-346-932
+[2023-07-26 17:35:37,851] 187 werkzeug - INFO -  * Detected change in 'D:\\projects_old\\data science\\mlproject2\\ml_pipeline_project\\app.py', reloading
