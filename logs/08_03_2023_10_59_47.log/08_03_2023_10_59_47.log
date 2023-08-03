@@ -1,0 +1,4 @@
+[2023-08-03 10:59:49,329] 21 root - INFO - Data ingestion started
+[2023-08-03 10:59:49,329] 23 root - INFO - Data reading from local system
+[2023-08-03 10:59:49,464] 28 root - INFO - Data splited into train test
+[2023-08-03 10:59:49,558] 31 root - INFO - Data Ingestion completed

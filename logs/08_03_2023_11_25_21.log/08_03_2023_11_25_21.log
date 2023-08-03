@@ -1,0 +1,8 @@
+[2023-08-03 11:25:22,434] 22 root - INFO - Data ingestion started
+[2023-08-03 11:25:22,434] 24 root - INFO - Data reading from local system
+[2023-08-03 11:25:22,570] 29 root - INFO - Data splited into train test
+[2023-08-03 11:25:22,667] 32 root - INFO - Data Ingestion completed
+[2023-08-03 11:25:22,733] 72 root - INFO - outliers capped on train data
+[2023-08-03 11:25:22,760] 29 root - INFO - Data Transformation Started
+[2023-08-03 11:25:22,760] 81 root - INFO - splitting train data into dependent and independent features
+[2023-08-03 11:25:22,764] 86 root - INFO - splitting test data into dependent and independent features
