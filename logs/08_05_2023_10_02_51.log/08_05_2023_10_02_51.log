@@ -1,0 +1,9 @@
+[2023-08-05 10:02:52,543] 23 root - INFO - Data ingestion started
+[2023-08-05 10:02:52,543] 25 root - INFO - Data reading from local system
+[2023-08-05 10:02:52,676] 30 root - INFO - Data splited into train test
+[2023-08-05 10:02:52,771] 33 root - INFO - Data Ingestion completed
+[2023-08-05 10:02:52,826] 72 root - INFO - outliers capped on train data
+[2023-08-05 10:02:52,848] 29 root - INFO - Data Transformation Started
+[2023-08-05 10:02:52,848] 81 root - INFO - splitting train data into dependent and independent features
+[2023-08-05 10:02:52,850] 86 root - INFO - splitting test data into dependent and independent features
+[2023-08-05 10:03:15,667] 69 root - INFO - best model found,model name is Random Forest and accuracy scoe is : 0.4959024790002049

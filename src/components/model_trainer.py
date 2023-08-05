@@ -65,6 +65,7 @@ class ModelTrainer:
 
             best_model_name=list(model.keys())[list(model_report.values()).index(best_model_score)]
             best_model=model[best_model_name]
+            print((f"best model found,model name is {best_model_name} and accuracy scoe is : {best_model_score}"))
             logging.info(f"best model found,model name is {best_model_name} and accuracy scoe is : {best_model_score}")
 
             save_object(file_path=self.model_trainer_config.train_model_file_path,obj=best_model)
