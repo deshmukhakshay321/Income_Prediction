@@ -1,0 +1,9 @@
+[2023-08-07 11:13:25,683] 187 werkzeug - WARNING -  * Debugger is active!
+[2023-08-07 11:13:25,700] 187 werkzeug - INFO -  * Debugger PIN: 388-346-932
+[2023-08-07 11:14:33,580] 187 werkzeug - INFO - 127.0.0.1 - - [07/Aug/2023 11:14:33] "GET / HTTP/1.1" 200 -
+[2023-08-07 11:14:48,245] 187 werkzeug - INFO - 127.0.0.1 - - [07/Aug/2023 11:14:48] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2023-08-07 11:14:48,273] 187 werkzeug - INFO - 127.0.0.1 - - [07/Aug/2023 11:14:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-08-07 11:14:48,583] 187 werkzeug - INFO - 127.0.0.1 - - [07/Aug/2023 11:14:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-08-07 11:14:48,972] 187 werkzeug - INFO - 127.0.0.1 - - [07/Aug/2023 11:14:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-08-07 11:14:49,240] 187 werkzeug - INFO - 127.0.0.1 - - [07/Aug/2023 11:14:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-08-07 11:16:08,830] 187 werkzeug - INFO -  * Detected change in 'd:\\projects_old\\data science\\mlproject2\\ml_pipeline_project\\src\\pipeline\\prediction_pipeline.py', reloading
